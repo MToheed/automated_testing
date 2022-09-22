@@ -2,7 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:http/http.dart' as http;
 import 'package:mockito/mockito.dart';
-import 'package:unit_testing/main.dart';
+import 'package:unit_testing/unit_testing/album_view.dart';
 import 'fetch_album_test.mocks.dart';
 
 @GenerateMocks([http.Client])

@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:unit_testing/area.dart';
+import 'package:unit_testing/unit_testing/area.dart';
 
 void main() {
   late Area area;

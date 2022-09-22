@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:unit_testing/counter.dart';
+import 'package:unit_testing/unit_testing/counter.dart';
 
 void main() {
   test(
