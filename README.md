@@ -1,6 +1,6 @@
-# unit_testing
+# automated_testing
 
-A new Flutter project.
+This projects includes unit testing, widget testing and integration testing.
 
 ## Getting Started
 
